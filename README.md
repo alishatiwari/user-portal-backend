@@ -46,13 +46,13 @@ $ npm run test:cov
 
 - Add following variables in `.env` file to run the app
 
-SERVER_PORT=3000
-PG_HOST=localhost
-PG_PORT=5432
-PG_USER=postgres
-PG_PASSWORD=postgres
-PG_DATABASE=user-management
-JWT_SECRET=dfhkgkgkug
+SERVER_PORT=3000  
+PG_HOST=localhost  
+PG_PORT=5432  
+PG_USER=postgres  
+PG_PASSWORD=postgres  
+PG_DATABASE=user-management  
+JWT_SECRET=dfhkgkgkug  
 JWT_EXPIRY=30d
 
 # Api docs
